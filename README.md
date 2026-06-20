@@ -1,3 +1,4 @@
+<img width="1919" height="1013" alt="Screenshot 2026-06-14 121830" src="https://github.com/user-attachments/assets/13b1304a-12c7-4fa1-b80e-eab8621489ab" />
 Zepto / Blinkit Grocery Analysis — Power BI Dashboard
 
  Overview
